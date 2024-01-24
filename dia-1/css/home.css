@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+    height: 13vh;
+    color: white;
+    background-color: #000940;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo-principal{
+    width: 80px;
+}
+nav{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.menu{
+    height: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+    font-weight: bold;
+}
+.menu a:hover{
+    font-size: 18px;
+    color: #0690BB;
+}
+
+/* MAIN */
+
+main{
+    color: #fff;
+    background-color: #000;
+}
+h1{
+    padding: 1em 0;
+    color: #d7019b;
+    text-align: center;
+}
+.container-section{
+    color: #fff;
+    height: 300px;
+    display: flex;
+}
+.img-juego{
+    width: 50%;
+    transition: 0.5s;
+}
+.img-juego:hover{
+    transform: scale(1.02);
+}
+.container-descripcion{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lista-descripcion{
+    list-style: none;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.section-2{
+    flex-direction: row-reverse;
+}
+
+/* FOOTER */
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: #000940;
+    color: #fff;
+}
