@@ -1,0 +1,14 @@
+C:\c#\Clases\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\c#\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\c#\Clases\Clases\bin\Debug\Clases.exe.config
+C:\c#\Clases\Clases\bin\Debug\Clases.exe
+C:\c#\Clases\Clases\bin\Debug\Clases.pdb
+C:\c#\Clases\Clases\obj\Debug\Clases.exe
+C:\c#\Clases\Clases\obj\Debug\Clases.pdb
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\bin\Debug\Clases.exe.config
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\bin\Debug\Clases.exe
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\bin\Debug\Clases.pdb
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\obj\Debug\Clases.exe
+E:\Adviters\Bootcamp-Adviters-Practica\dia-6\Clases\Clases\obj\Debug\Clases.pdb
